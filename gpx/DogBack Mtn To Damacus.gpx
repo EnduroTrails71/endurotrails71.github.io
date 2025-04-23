@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1">
+	<metadata>
+		<link href="https://www.garmin.com">
+			<text>Garmin Tread App™</text>
+		</link>
+		<time>1970-01-01T00:00:00Z</time>
+	</metadata>
+	<rte>
+		<name>DogBack Mtn To Damacus</name>
+		<rtept lat="35.951366890221834" lon="-81.943736532703042">
+			<name>smk mtn 5 155</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="35.770390117540956" lon="-82.164945602416992">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.916538238525391" lon="-82.26987361907959">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.030006408691406" lon="-82.313024997711182">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.116480827331543" lon="-82.343151569366455">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.137681007385254" lon="-82.300729751586914">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.13968713209033" lon="-82.262997608631849">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.190166557207704" lon="-82.248609066009521">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.228039348497987" lon="-82.189257144927979">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.38995885848999" lon="-82.225799560546875">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.413369178771973" lon="-82.201595306396484">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.429591178894043" lon="-82.17374324798584">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.460919380187988" lon="-82.127330303192139">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.488004075363278" lon="-82.073880331590772">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.531386375427246" lon="-82.016630172729492">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.544990539550781" lon="-81.991610527038574">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.566405296325684" lon="-81.979165077209473">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.592926979064941" lon="-81.928482055664062">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.622581481933594" lon="-81.819090843200684">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.630829107016325" lon="-81.810530489310622">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.640198230743408" lon="-81.80171012878418">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.641267342492938" lon="-81.799155827611685">
+			<name>Alley</name>
+			<extensions />
+		</rtept>
+	</rte>
+</gpx>

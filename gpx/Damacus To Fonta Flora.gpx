@@ -1,0 +1,244 @@
+<?xml version="1.0"?>
+<gpx version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1">
+	<metadata>
+		<link href="https://www.garmin.com">
+			<text>Garmin Tread App™</text>
+		</link>
+		<time>1970-01-01T00:00:00Z</time>
+	</metadata>
+	<rte>
+		<name>Damacus To Fonta Flora</name>
+		<rtept lat="36.6341857239604" lon="-81.78794058971107">
+			<name>E Bank Ave</name>
+			<extensions>
+				<trp:ViaPoint>
+					<trp:CalculationMode>FasterTime</trp:CalculationMode>
+				</trp:ViaPoint>
+			</extensions>
+		</rtept>
+		<rtept lat="36.604814529418945" lon="-81.748065948486328">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.621701717376709" lon="-81.719441413879395">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.614599311724305" lon="-81.682877540588379">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.623547077178955" lon="-81.667556762695312">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.619721911847591" lon="-81.655967859551311">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.621656119823456" lon="-81.636456800624728">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.613805294036865" lon="-81.618912220001221">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.602561473846436" lon="-81.625971794128418">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.600608825683594" lon="-81.627302169799805">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.586339473724365" lon="-81.622281074523926">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.558787822723389" lon="-81.619234085083008">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.539411544799805" lon="-81.620779037475586">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.525871753692627" lon="-81.597368717193604">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.521430015563965" lon="-81.625328063964844">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.496410369873047" lon="-81.624083518981934">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.46512508392334" lon="-81.616230010986328">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.443495750427246" lon="-81.614577770233154">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.423046588897705" lon="-81.621894836425781">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.391439437866211" lon="-81.610307693481445">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.364917755126953" lon="-81.599535942077637">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.341507434844971" lon="-81.592905521392822">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.301209926605225" lon="-81.593935489654541">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.277971267700195" lon="-81.618719100952148">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.260890960693359" lon="-81.611745357513428">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.230700016021729" lon="-81.597754955291748">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.221601963043213" lon="-81.607239246368408">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.192634189501405" lon="-81.606316566467285">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.183793544769287" lon="-81.626336574554443">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.161563396453857" lon="-81.623246669769287">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.148989200592041" lon="-81.639447212219238">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.117360591888428" lon="-81.681311130523682">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.09433650970459" lon="-81.689786911010742">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.042044162750244" lon="-81.707746982574463">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.007862091064453" lon="-81.72778844833374">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.972049236297607" lon="-81.728260517120361">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.906496047973633" lon="-81.699120998382568">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.984425954520702" lon="-81.757962629199028">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="36.009106636047363" lon="-81.821579933166504">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.977177619934082" lon="-81.886789798736572">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.916109085083008" lon="-81.879494190216064">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.884716510772705" lon="-81.839797496795654">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.851671025156975" lon="-81.782571813091636">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.84263801574707" lon="-81.797182559967041">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.773007869720459" lon="-81.894192695617676">
+			<extensions>
+				<trp:ShapingPoint />
+			</extensions>
+		</rtept>
+		<rtept lat="35.75952909886837" lon="-81.906491629779339">
+			<name>Fonta Flora</name>
+			<extensions />
+		</rtept>
+	</rte>
+</gpx>
